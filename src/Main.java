@@ -2,9 +2,7 @@
 
 public class Main {
     int a = 5;
-    //tạo phương thức, để chạy chương trình cần phương thức Main
-    // static dùng để không cần khởi tạo đối tượng khi sử dugj phuowg thức của class
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         int wid=7;
         int leng=15;
         float rad=8;
